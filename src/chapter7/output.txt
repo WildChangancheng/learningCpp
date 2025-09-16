@@ -1,0 +1,6 @@
+Text in the file:
+————————————————————————————————
+This is a sample.
+
+Text in the file is forwarded to the output program.
+————————————————————————————————
